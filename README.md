@@ -2,7 +2,7 @@
 
 Version : 3.1.11
 
-Includes CRUD operations &amp; API Demo
+Includes CRUD operations &amp; API Demo 
 
 1. Create a database named `codeigniter-api` in MySQL, then import `codeigniter-api.sql` file from the root folder.
    
